@@ -1,2 +1,2 @@
 # Namaste_React
-Indepth React Course taught by Akshay Sainu
+In-depth React Course taught by Akshay Saini
