@@ -1,0 +1,28 @@
+{
+  "name": "episode1_nr",
+  "version": "1.0.0",
+  "description": "Episode 1 of Namaster React Series",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbisai7/Namaste_React.git#main"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "namaster",
+    "react"
+  ],
+  "author": "Sai Chaithanya Abbireddygari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbisai7/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/abbisai7/Namaste_React/tree/main#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
