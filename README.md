@@ -1,5 +1,5 @@
 # Namaste_React
-In-depth React Course taught by Akshay Saini
+In-depth React Course taught by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/)
 
 ### Episode 1 - Inception
 - [Code](./Episode-1/Code)
