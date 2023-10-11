@@ -1,0 +1,28 @@
+{
+  "name": "namsate_react_episode2",
+  "version": "1.0.0",
+  "description": "Building react app from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbisai7/Namaste_React.git#main"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "namaste",
+    "react"
+  ],
+  "author": "Sai Chaithanya Abbireddygari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbisai7/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/abbisai7/Namaste_React/tree/main#readme",
+  "dependencies": {
+    "parcel": "^2.10.0"
+  }
+}
