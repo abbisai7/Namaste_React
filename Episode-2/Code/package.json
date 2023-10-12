@@ -2,7 +2,6 @@
   "name": "namsate_react_episode2",
   "version": "1.0.0",
   "description": "Building react app from scratch",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -23,6 +22,11 @@
   },
   "homepage": "https://github.com/abbisai7/Namaste_React/tree/main#readme",
   "dependencies": {
-    "parcel": "^2.10.0"
+    "parcel": "^2.10.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
   }
 }
