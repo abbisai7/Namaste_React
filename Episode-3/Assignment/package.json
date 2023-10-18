@@ -1,0 +1,33 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "namaste-react-episode3-assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbisai7/Namaste_React.git#main"
+  },
+  "keywords": [
+    "react",
+    "namaste-react"
+  ],
+  "author": "Sai Chaithanya Abbireddygari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbisai7/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/abbisai7/Namaste_React/tree/main#readme",
+  "dependencies": {
+    "parcel": "^2.10.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
